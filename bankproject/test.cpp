@@ -1,5 +1,7 @@
 //This project is based on the oops concepts.This project process tasks like give account details to customers,
 //check balance.
+//author Name:Mahadev
+
 #include<iostream>
 #include<string.h>
 using namespace std;
